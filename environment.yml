@@ -8,5 +8,5 @@ dependencies:
     - scikit-learn
     - matplotlib
     - pandas
-    - PIL
+    - Pillow
     
